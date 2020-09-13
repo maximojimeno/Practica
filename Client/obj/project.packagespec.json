@@ -1,0 +1,76 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj",
+    "projectName": "Persona.Client",
+    "projectPath": "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj",
+    "outputPath": "/home/maximojimeno/Practica/Persona/Client/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "projectReferences": {
+          "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj": {
+            "projectPath": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Components.WebAssembly": {
+          "target": "Package",
+          "version": "[3.2.1, )"
+        },
+        "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.2.1, )"
+        },
+        "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.2.1, )"
+        },
+        "Microsoft.EntityFrameworkCore.Design": {
+          "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.1.8, )"
+        },
+        "System.Net.Http.Json": {
+          "target": "Package",
+          "version": "[3.2.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "NETStandard.Library": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+    }
+  }
+}

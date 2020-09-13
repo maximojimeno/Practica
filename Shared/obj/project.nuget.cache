@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KXEA7O0E3h0qMnLdJvAQ4LVu0U69kKRuWIIhJTfl4FqR21HEdycUV0Njx6NsWuizuC3g8L9zMa8quAOKeWIZQw==",
+  "success": true,
+  "projectFilePath": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/maximojimeno/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
