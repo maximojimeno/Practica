@@ -14,15 +14,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48c49065-07b8-4cf5-a2d9-d67fe0957d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Persona/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Persona/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/Controllers/PersonasController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Controllers/PersonasController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.csprojAssemblyReference.cache" afterDir="false" />
-    </list>
+    <list default="true" id="48c49065-07b8-4cf5-a2d9-d67fe0957d5d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600023035559</updated>
       <workItem from="1600023051409" duration="4894000" />
-      <workItem from="1600028028267" duration="2120000" />
+      <workItem from="1600028028267" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600028072256</created>
@@ -155,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600028105242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Controlador Persona: Se Agrego el Metodo Optener lista de Persona">
+      <created>1600030811479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600030811479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Controlador Persona: Se Agrego el Metodo Optener lista de Persona">
+      <created>1600030823314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600030823314</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +183,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Controlador Persona: Se agrego el metodo optener lista Personas" />
+    <MESSAGE value="Controlador Persona: Se Agrego el Metodo Optener lista de Persona" />
+    <option name="LAST_COMMIT_MESSAGE" value="Controlador Persona: Se Agrego el Metodo Optener lista de Persona" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="117" width="1400" height="628" key="DiffContextDialog" timestamp="1600023408991">
@@ -188,6 +196,22 @@
       <screen x="0" y="27" width="1600" height="823" />
     </state>
     <state x="545" y="197" key="FileChooserDialogImpl/0.27.1600.823@0.27.1600.823" timestamp="1600023110590" />
+    <state width="1552" height="199" key="GridCell.Tab.0.bottom" timestamp="1600030576119">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state width="1552" height="199" key="GridCell.Tab.0.bottom/0.27.1600.823@0.27.1600.823" timestamp="1600030576119" />
+    <state width="1552" height="199" key="GridCell.Tab.0.center" timestamp="1600030576118">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state width="1552" height="199" key="GridCell.Tab.0.center/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
+    <state width="1552" height="199" key="GridCell.Tab.0.left" timestamp="1600030576118">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state width="1552" height="199" key="GridCell.Tab.0.left/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
+    <state width="1552" height="199" key="GridCell.Tab.0.right" timestamp="1600030576118">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state width="1552" height="199" key="GridCell.Tab.0.right/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
     <state x="322" y="69" width="1185" height="742" key="SettingsEditor" timestamp="1600028531908">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
@@ -196,13 +220,13 @@
       <screen x="0" y="27" width="1600" height="823" />
     </state>
     <state x="100" y="117" width="1400" height="628" key="VCS.FileHistoryDialog/0.27.1600.823@0.27.1600.823" timestamp="1600030312716" />
-    <state x="398" y="165" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1600028118418">
+    <state x="398" y="160" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1600030833753">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state x="398" y="165" width="800" height="540" key="Vcs.Push.Dialog.v2/0.27.1600.823@0.27.1600.823" timestamp="1600028118418" />
-    <state x="536" y="349" width="527" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600029431576">
+    <state x="398" y="160" width="800" height="540" key="Vcs.Push.Dialog.v2/0.27.1600.823@0.27.1600.823" timestamp="1600030833753" />
+    <state x="536" y="344" width="527" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600030913132">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state x="536" y="349" width="527" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.823@0.27.1600.823" timestamp="1600029431576" />
+    <state x="536" y="344" width="527" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.823@0.27.1600.823" timestamp="1600030913132" />
   </component>
 </project>
