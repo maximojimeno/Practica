@@ -6422,34 +6422,36 @@
     ]
   },
   "packageFolders": {
-    "/home/maximojimeno/.nuget/packages/": {}
+    "C:\\Users\\Hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maximojimeno/Practica/Persona/Server/Persona.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Server\\Persona.Server.csproj",
       "projectName": "Persona.Server",
-      "projectPath": "/home/maximojimeno/Practica/Persona/Server/Persona.Server.csproj",
-      "packagesPath": "/home/maximojimeno/.nuget/packages/",
-      "outputPath": "/home/maximojimeno/Practica/Persona/Server/obj/",
+      "projectPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Server\\Persona.Server.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/maximojimeno/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj": {
-              "projectPath": "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj"
+            "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Client\\Persona.Client.csproj": {
+              "projectPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Client\\Persona.Client.csproj"
             },
-            "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj": {
-              "projectPath": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj"
+            "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj": {
+              "projectPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj"
             }
           }
         }
@@ -6496,7 +6498,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

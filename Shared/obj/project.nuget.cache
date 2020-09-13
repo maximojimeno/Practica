@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KXEA7O0E3h0qMnLdJvAQ4LVu0U69kKRuWIIhJTfl4FqR21HEdycUV0Njx6NsWuizuC3g8L9zMa8quAOKeWIZQw==",
+  "dgSpecHash": "85vuEK11fiudFxOwgP5tAgf2yshpLou5JgLUnk10GpgGDfpJeolW+Qdf8lnIsumD3DGAMsPM/U5NLAN6gl/+AQ==",
   "success": true,
-  "projectFilePath": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj",
   "expectedPackageFiles": [
-    "/home/maximojimeno/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    "C:\\Users\\Hp\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
