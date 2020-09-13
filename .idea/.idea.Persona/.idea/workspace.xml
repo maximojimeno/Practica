@@ -14,7 +14,111 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48c49065-07b8-4cf5-a2d9-d67fe0957d5d" name="Default Changelist" comment="" />
+    <list default="true" id="48c49065-07b8-4cf5-a2d9-d67fe0957d5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Persona/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Persona/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Persona/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Persona/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Client.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Client.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/Persona.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.dll.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.dll.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.pdb.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Persona.Client.pdb.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/service-worker-assets.js" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/service-worker-assets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/service-worker-assets.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/service-worker-assets.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Client/bin/Debug/netstandard2.1/wwwroot/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.RazorComponent.input.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.RazorComponent.input.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Persona.Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/App.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/App.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/App.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Persona.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Persona.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Persona.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Persona.Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/boot.json.input" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/boot.json.input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/service-worker-assets.js" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/service-worker-assets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/serviceworkerhashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/serviceworkerhashes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/serviceworkers/wwwroot/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/serviceworkers/wwwroot/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/unlinked/Persona.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/unlinked/Persona.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/unlinked/Persona.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/blazor/unlinked/Persona.Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Persona.Client.dll.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Persona.Client.dll.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Persona.Client.pdb.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Persona.Client.pdb.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/brotli.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/brotli.manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/gzip.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/gzip.manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/service-worker-assets.js.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/compressed/service-worker-assets.js.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/staticwebassets/Persona.Client.StaticWebAssets.Manifest.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/staticwebassets/Persona.Client.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/staticwebassets/Persona.Client.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Debug/netstandard2.1/staticwebassets/Persona.Client.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Persona.Client.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Persona.Client.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Persona.Client.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Persona.Client.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/Persona.Client.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/Persona.Client.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Client/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/Controllers/PersonasController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/Controllers/PersonasController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Client.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Client.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Client.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/bin/Debug/netcoreapp3.1/Persona.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Persona.Server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/staticwebassets/Persona.Server.StaticWebAssets.Manifest.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/staticwebassets/Persona.Server.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/staticwebassets/Persona.Server.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/staticwebassets/Persona.Server.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Persona.Server.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Persona.Server.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Persona.Server.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Persona.Server.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/Persona.Server.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/Persona.Server.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Server/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/bin/Debug/netstandard2.1/Persona.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/bin/Debug/netstandard2.1/Persona.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/bin/Debug/netstandard2.1/Persona.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/bin/Debug/netstandard2.1/Persona.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Debug/netstandard2.1/Persona.Shared.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/Persona.Shared.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Persona.Shared.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/Persona.Shared.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/Persona.Shared.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shared/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +139,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Client/_Imports.razor" />
-        <option value="$PROJECT_DIR$/Shared/Persona.cs" />
         <option value="$PROJECT_DIR$/Server/Models/DbContext.cs" />
         <option value="$PROJECT_DIR$/Server/Models/DbContexto.cs" />
         <option value="$PROJECT_DIR$/Server/Startup.cs" />
         <option value="$PROJECT_DIR$/Server/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/Server/Controllers/PersonaController.cs" />
+        <option value="$PROJECT_DIR$/Shared/Persona.cs" />
         <option value="$PROJECT_DIR$/Server/Controllers/PersonasController.cs" />
       </list>
     </option>
@@ -56,7 +160,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Shared/WeatherForecast.cs" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Shared/WeatherForecast.cs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -132,6 +236,8 @@
       <updated>1600023035559</updated>
       <workItem from="1600023051409" duration="4894000" />
       <workItem from="1600028028267" duration="2715000" />
+      <workItem from="1600032458795" duration="4358000" />
+      <workItem from="1600036897486" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600028072256</created>
@@ -179,6 +285,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -196,30 +303,30 @@
       <screen x="0" y="27" width="1600" height="823" />
     </state>
     <state x="545" y="197" key="FileChooserDialogImpl/0.27.1600.823@0.27.1600.823" timestamp="1600023110590" />
-    <state width="1552" height="199" key="GridCell.Tab.0.bottom" timestamp="1600030576119">
+    <state width="1552" height="199" key="GridCell.Tab.0.bottom" timestamp="1600037346001">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state width="1552" height="199" key="GridCell.Tab.0.bottom/0.27.1600.823@0.27.1600.823" timestamp="1600030576119" />
-    <state width="1552" height="199" key="GridCell.Tab.0.center" timestamp="1600030576118">
+    <state width="1552" height="199" key="GridCell.Tab.0.bottom/0.27.1600.823@0.27.1600.823" timestamp="1600037346001" />
+    <state width="1552" height="199" key="GridCell.Tab.0.center" timestamp="1600037345999">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state width="1552" height="199" key="GridCell.Tab.0.center/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
-    <state width="1552" height="199" key="GridCell.Tab.0.left" timestamp="1600030576118">
+    <state width="1552" height="199" key="GridCell.Tab.0.center/0.27.1600.823@0.27.1600.823" timestamp="1600037345999" />
+    <state width="1552" height="199" key="GridCell.Tab.0.left" timestamp="1600037345999">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state width="1552" height="199" key="GridCell.Tab.0.left/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
-    <state width="1552" height="199" key="GridCell.Tab.0.right" timestamp="1600030576118">
+    <state width="1552" height="199" key="GridCell.Tab.0.left/0.27.1600.823@0.27.1600.823" timestamp="1600037345999" />
+    <state width="1552" height="199" key="GridCell.Tab.0.right" timestamp="1600037346000">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state width="1552" height="199" key="GridCell.Tab.0.right/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
-    <state x="322" y="69" width="1185" height="742" key="SettingsEditor" timestamp="1600028531908">
+    <state width="1552" height="199" key="GridCell.Tab.0.right/0.27.1600.823@0.27.1600.823" timestamp="1600037346000" />
+    <state x="322" y="64" width="1185" height="742" key="SettingsEditor" timestamp="1600032547294">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state x="322" y="69" width="1185" height="742" key="SettingsEditor/0.27.1600.823@0.27.1600.823" timestamp="1600028531908" />
-    <state x="100" y="117" width="1400" height="628" key="VCS.FileHistoryDialog" timestamp="1600030312716">
+    <state x="322" y="64" width="1185" height="742" key="SettingsEditor/0.27.1600.823@0.27.1600.823" timestamp="1600032547294" />
+    <state x="100" y="112" width="1400" height="628" key="VCS.FileHistoryDialog" timestamp="1600034976707">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state x="100" y="117" width="1400" height="628" key="VCS.FileHistoryDialog/0.27.1600.823@0.27.1600.823" timestamp="1600030312716" />
+    <state x="100" y="112" width="1400" height="628" key="VCS.FileHistoryDialog/0.27.1600.823@0.27.1600.823" timestamp="1600034976707" />
     <state x="398" y="160" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1600030833753">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
@@ -228,5 +335,9 @@
       <screen x="0" y="27" width="1600" height="823" />
     </state>
     <state x="536" y="344" width="527" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.823@0.27.1600.823" timestamp="1600030913132" />
+    <state x="464" y="192" key="run.anything.popup" timestamp="1600035910721">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state x="464" y="192" key="run.anything.popup/0.27.1600.823@0.27.1600.823" timestamp="1600035910721" />
   </component>
 </project>

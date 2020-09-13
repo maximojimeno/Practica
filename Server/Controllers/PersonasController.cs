@@ -7,13 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Persona.Server.Models;
 
+
 namespace Persona.Server.Controllers {
-    [Route("api/personas")]
+    [Route("api/[Controller]")]
     [ApiController]
     public class PersonasController : ControllerBase
-    {
-
-        private DbContexto _dbContexto;
+    
+    { private DbContexto _dbContexto;
 
         public PersonasController(DbContexto dbContexto)
         {
@@ -22,24 +22,51 @@ namespace Persona.Server.Controllers {
 
         [HttpGet("")]
 
-        public ActionResult<IEnumerable<Shared.Persona>> GetPersonas()
+        public async Task<ActionResult<IEnumerable<Shared.Persona>>> GetPersonas()
         {
-            return _dbContexto.personas.ToList();
+            try
+            {
+                List<Shared.Persona> persona = await _dbContexto.personas.ToListAsync();
+
+                return persona;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
+        
+        [HttpGet("{Id}")]
+        public async Task<ActionResult<Shared.Persona>> GetPersona(int id) {
 
-        [HttpGet("{PersonaId}")]
-        public async Task<ActionResult<Shared.Persona>> GetPersona(int PersonaId) {
-
-            var persona = await _dbContexto.personas.Where(p => p.id == PersonaId).SingleOrDefaultAsync();
+            var persona = await _dbContexto.personas.FirstOrDefaultAsync(persona => persona.id == id);
 
             if (persona == null) {
                 return NotFound();
             } else {
                 return persona;
             }
-
-
         }
 
+        [HttpPost]
+        public async Task<ActionResult<Shared.Persona>> PostGuardar(Shared.Persona persona)
+        {
+            try
+            {
+                if (_dbContexto.personas.Add(persona) != null)
+                {
+                    await _dbContexto.SaveChangesAsync();
+                }
+                return Ok();
+                
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+        }
     }
-}
+    }
+

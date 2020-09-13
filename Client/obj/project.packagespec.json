@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj",
+    "projectUniqueName": "/home/maximojimeno/practica/Client/Persona.Client.csproj",
     "projectName": "Persona.Client",
-    "projectPath": "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj",
-    "outputPath": "/home/maximojimeno/Practica/Persona/Client/obj/",
+    "projectPath": "/home/maximojimeno/practica/Client/Persona.Client.csproj",
+    "outputPath": "/home/maximojimeno/practica/Client/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.1"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netstandard2.1": {
         "projectReferences": {
-          "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj": {
-            "projectPath": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj"
+          "/home/maximojimeno/practica/Shared/Persona.Shared.csproj": {
+            "projectPath": "/home/maximojimeno/practica/Shared/Persona.Shared.csproj"
           }
         }
       }

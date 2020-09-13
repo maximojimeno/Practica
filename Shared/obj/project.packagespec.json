@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj",
+    "projectUniqueName": "/home/maximojimeno/practica/Shared/Persona.Shared.csproj",
     "projectName": "Persona.Shared",
-    "projectPath": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj",
-    "outputPath": "/home/maximojimeno/Practica/Persona/Shared/obj/",
+    "projectPath": "/home/maximojimeno/practica/Shared/Persona.Shared.csproj",
+    "outputPath": "/home/maximojimeno/practica/Shared/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netstandard2.1"

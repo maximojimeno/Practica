@@ -7,3 +7,12 @@
 /home/maximojimeno/Practica/Persona/Shared/obj/Debug/netstandard2.1/Persona.Shared.csproj.CoreCompileInputs.cache
 /home/maximojimeno/Practica/Persona/Shared/obj/Debug/netstandard2.1/Persona.Shared.dll
 /home/maximojimeno/Practica/Persona/Shared/obj/Debug/netstandard2.1/Persona.Shared.pdb
+/home/maximojimeno/practica/Shared/bin/Debug/netstandard2.1/Persona.Shared.deps.json
+/home/maximojimeno/practica/Shared/bin/Debug/netstandard2.1/Persona.Shared.dll
+/home/maximojimeno/practica/Shared/bin/Debug/netstandard2.1/Persona.Shared.pdb
+/home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.csprojAssemblyReference.cache
+/home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.AssemblyInfoInputs.cache
+/home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.AssemblyInfo.cs
+/home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.csproj.CoreCompileInputs.cache
+/home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.dll
+/home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.pdb

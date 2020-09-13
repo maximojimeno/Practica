@@ -1,263 +1,263 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Blk7I7ZdBbf4LjaT1cjgtfJP8g_GXCFQnoZM2E_2nEE=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Persona.Client.dll",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Ak-EyMCBek3YMgvVYKSkqI4zmwGaRDr-5hZYYYVz900=.hash",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Persona.Client.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Persona.Client.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/netstandard.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/netstandard.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/netstandard.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.Linq.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.Linq.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Xml.Linq.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Core.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Core.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Core.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/WebAssembly.Net.WebSockets.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/WebAssembly.Net.WebSockets.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/WebAssembly.Net.WebSockets.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Memory.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Memory.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Memory.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/mscorlib.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/mscorlib.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/mscorlib.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/WebAssembly.Bindings.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/WebAssembly.Bindings.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/WebAssembly.Bindings.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Numerics.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Numerics.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Numerics.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Xml.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Xml.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Mono.Security.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Mono.Security.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Mono.Security.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Transactions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Transactions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Transactions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.Serialization.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.Serialization.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.Serialization.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ServiceModel.Internals.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ServiceModel.Internals.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ServiceModel.Internals.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.WebAssemblyHttpHandler.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.Composition.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.Composition.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.Composition.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.Compression.FileSystem.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.Compression.FileSystem.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.IO.Compression.FileSystem.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.Compression.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.IO.Compression.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.IO.Compression.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Drawing.Common.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Drawing.Common.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Drawing.Common.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Data.DataSetExtensions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Data.DataSetExtensions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Data.DataSetExtensions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Data.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Data.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Data.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Web.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Forms.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.Forms.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.Annotations.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.Annotations.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.Annotations.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.DataAnnotations.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.ComponentModel.DataAnnotations.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Buffers.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Buffers.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Buffers.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/r2LBjPMuwCEVf-LvUtgv5qnp0CdmnZ9HsVnmdyFTVI4=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Logging.Abstractions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/d04zIStVcFNO5larHi32IT4SSemvK1abhwxWZVFJcRM=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Encodings.Web.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Encodings.Web.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Encodings.Web.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/gVSVeQ5oYtEMI_SN4sTxxJUMIQATQ0ezbACLauNlgX8=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Primitives.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Primitives.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.CompilerServices.Unsafe.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.CompilerServices.Unsafe.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/82sEKBgu95AIpX2e3BERkGfab67cRbYE_U9pXDXZrwc=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/MGgkslhetJPueVToOvktCyKIWYeYUzZYHf7-ZZANxzI=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.Json.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.Json.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.FileExtensions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Configuration.FileExtensions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Configuration.FileExtensions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Physical.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Physical.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileProviders.Physical.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileSystemGlobbing.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileSystemGlobbing.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileSystemGlobbing.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.FileProviders.Abstractions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Json.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Json.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Json.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Bcl.AsyncInterfaces.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Bcl.AsyncInterfaces.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Threading.Tasks.Extensions.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Threading.Tasks.Extensions.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Threading.Tasks.Extensions.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Numerics.Vectors.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Numerics.Vectors.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Numerics.Vectors.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZPq6B-OiLSulwux7YLXx-NihIbjxBmbDQijJemWNhow=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Logging.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Logging.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Options.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.Options.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.JSInterop.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.JSInterop.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.JSInterop.WebAssembly.dll",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/GmRwAEZYPJ8NNGvKihoPvZU_EDJyQYQCIrBvFISPWis=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Persona.Client.pdb",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/rvpKUz5MYM9__gRip_oEOeLlbp350TEvOICgqROm_8U=.hash",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Persona.Client.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Persona.Client.pdb.br"
     },
     {
@@ -281,13 +281,13 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/RYptd8o0v_FTx4XlpHP8_ZqL7sWPeBBQcWmmcwFoylQ=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/DdTolltBNfCEez-ye_rqHei0lh3dgNeUZPZfeQUGfuM=.hash",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/_wbERf2wLX-8dlh2y9ZpruZziv-wmr-C3kFIU1Q3Wlg=.hash",
-      "Source": "\/home\/maximojimeno\/Practica\/Persona\/Client\/obj\/Debug\/netstandard2.1\/blazor\/service-worker-assets.js",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/7v3Iu2nNBpLD2KpktVijraQ9D2DtvSF6zuveOUbA880=.hash",
+      "Source": "\/home\/maximojimeno\/practica\/Client\/obj\/Debug\/netstandard2.1\/blazor\/service-worker-assets.js",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/service-worker-assets.js.br"
     }
   ]
