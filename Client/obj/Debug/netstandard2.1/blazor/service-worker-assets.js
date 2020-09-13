@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-GFb1aMtiHPsg6zViTqh0w7yetBQUyfNbWBVtftIXnhw=",
+      "hash": "sha256-Blk7I7ZdBbf4LjaT1cjgtfJP8g+GXCFQnoZM2E+2nEE=",
       "url": "_framework\/_bin\/Persona.Client.dll"
     },
     {
@@ -269,7 +269,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-UGVBShQz+49LsKdCAyqMP8EZbKzFy3vAF\/Pf95YqhfE=",
+      "hash": "sha256-GmRwAEZYPJ8NNGvKihoPvZU+EDJyQYQCIrBvFISPWis=",
       "url": "_framework\/_bin\/Persona.Client.pdb"
     },
     {
@@ -289,9 +289,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-2RQtQpIf6cvbWIWIbUUZoydkP9T8qwpnWAfef3BhgxE=",
+      "hash": "sha256-RYptd8o0v+FTx4XlpHP8+ZqL7sWPeBBQcWmmcwFoylQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "9TuXBELp"
+  "version": "lQXlfneC"
 };

@@ -67,7 +67,7 @@
       <e p="Persona.sln" t="IncludeFlat" />
       <e p="Server" t="IncludeRecursive">
         <e p="Controllers" t="Include">
-          <e p="PersonaController.cs" t="Include" />
+          <e p="PersonasController.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="20200913200557_Initial.Designer.cs" t="Include" />
