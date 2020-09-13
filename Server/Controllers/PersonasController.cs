@@ -4,38 +4,26 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Persona.Server.Models;
 
 namespace Persona.Server.Controllers {
-    [Route("api/personas")]
+    [Route("api/persona")]
     [ApiController]
-    public class PersonasController : ControllerBase {
+    public class PersonasController : ControllerBase
+    {
 
-        private readonly DbContexto contexto;
+        private DbContexto _dbContexto;
 
-        public PersonasController(DbContexto _contexto) {
-            contexto = _contexto;
+        public PersonasController(DbContexto dbContexto)
+        {
+            _dbContexto = dbContexto;
         }
 
+        [HttpGet("")]
 
-        [HttpGet("{PersonaId}")]
-        public async Task<ActionResult<Shared.Persona>> GetPersona(int PersonaId) {
-
-            var persona = await contexto.personas.Where(p => p.id == PersonaId).SingleOrDefaultAsync();
-
-            if (persona == null) {
-                return NotFound();
-            } else {
-                return persona;
-            }
-
-
+        public ActionResult<IEnumerable<Shared.Persona>> GetPersonas()
+        {
+            return _dbContexto.personas.ToList();
         }
-
-
     }
-
-
-
 }

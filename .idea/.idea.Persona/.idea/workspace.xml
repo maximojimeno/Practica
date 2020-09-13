@@ -4,6 +4,15 @@
     <projectFile>Server/Persona.Server.csproj</projectFile>
     <projectFile>Client/Persona.Client.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48c49065-07b8-4cf5-a2d9-d67fe0957d5d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +20,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Server/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Client/_Imports.razor" />
         <option value="$PROJECT_DIR$/Shared/Persona.cs" />
-        <option value="$PROJECT_DIR$/Server/Controllers/PersonaController.cs" />
         <option value="$PROJECT_DIR$/Server/Models/DbContext.cs" />
         <option value="$PROJECT_DIR$/Server/Models/DbContexto.cs" />
         <option value="$PROJECT_DIR$/Server/Startup.cs" />
         <option value="$PROJECT_DIR$/Server/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/Server/Controllers/PersonaController.cs" />
+        <option value="$PROJECT_DIR$/Server/Controllers/PersonasController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1hT735SyLuXPZoXal3ZmNZ1P3Mm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +60,7 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Shared/WeatherForecast.cs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Persona.Client: IIS Express">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Persona.Server">
     <configuration name="Persona.Client: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Client/Persona.Client.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETStandard,Version=v2.1" />
@@ -109,16 +131,61 @@
       <option name="presentableId" value="Default" />
       <updated>1600023035559</updated>
       <workItem from="1600023051409" duration="4894000" />
+      <workItem from="1600028028267" duration="2715000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1600028072256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600028072256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1600028105242</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600028105242</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Controlador Persona: Se Agrego el Metodo Optener lista de Persona">
+      <created>1600030811479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600030811479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Controlador Persona: Se Agrego el Metodo Optener lista de Persona">
+      <created>1600030823314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600030823314</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Controlador Persona: Se agrego el metodo optener lista Personas" />
+    <MESSAGE value="Controlador Persona: Se Agrego el Metodo Optener lista de Persona" />
+    <option name="LAST_COMMIT_MESSAGE" value="Controlador Persona: Se Agrego el Metodo Optener lista de Persona" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="117" width="1400" height="628" key="DiffContextDialog" timestamp="1600023408991">
@@ -129,9 +196,37 @@
       <screen x="0" y="27" width="1600" height="823" />
     </state>
     <state x="545" y="197" key="FileChooserDialogImpl/0.27.1600.823@0.27.1600.823" timestamp="1600023110590" />
-    <state x="322" y="74" width="1185" height="742" key="SettingsEditor" timestamp="1600027841712">
+    <state width="1552" height="199" key="GridCell.Tab.0.bottom" timestamp="1600030576119">
       <screen x="0" y="27" width="1600" height="823" />
     </state>
-    <state x="322" y="74" width="1185" height="742" key="SettingsEditor/0.27.1600.823@0.27.1600.823" timestamp="1600027841712" />
+    <state width="1552" height="199" key="GridCell.Tab.0.bottom/0.27.1600.823@0.27.1600.823" timestamp="1600030576119" />
+    <state width="1552" height="199" key="GridCell.Tab.0.center" timestamp="1600030576118">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state width="1552" height="199" key="GridCell.Tab.0.center/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
+    <state width="1552" height="199" key="GridCell.Tab.0.left" timestamp="1600030576118">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state width="1552" height="199" key="GridCell.Tab.0.left/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
+    <state width="1552" height="199" key="GridCell.Tab.0.right" timestamp="1600030576118">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state width="1552" height="199" key="GridCell.Tab.0.right/0.27.1600.823@0.27.1600.823" timestamp="1600030576118" />
+    <state x="322" y="69" width="1185" height="742" key="SettingsEditor" timestamp="1600028531908">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state x="322" y="69" width="1185" height="742" key="SettingsEditor/0.27.1600.823@0.27.1600.823" timestamp="1600028531908" />
+    <state x="100" y="117" width="1400" height="628" key="VCS.FileHistoryDialog" timestamp="1600030312716">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state x="100" y="117" width="1400" height="628" key="VCS.FileHistoryDialog/0.27.1600.823@0.27.1600.823" timestamp="1600030312716" />
+    <state x="398" y="160" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1600030833753">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state x="398" y="160" width="800" height="540" key="Vcs.Push.Dialog.v2/0.27.1600.823@0.27.1600.823" timestamp="1600030833753" />
+    <state x="536" y="344" width="527" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600030913132">
+      <screen x="0" y="27" width="1600" height="823" />
+    </state>
+    <state x="536" y="344" width="527" height="182" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.823@0.27.1600.823" timestamp="1600030913132" />
   </component>
 </project>

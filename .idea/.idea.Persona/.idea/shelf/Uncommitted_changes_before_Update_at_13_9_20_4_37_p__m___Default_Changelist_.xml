@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_13_9_20_4_37_p__m__[Default_Changelist]" date="1600029446094" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Persona/.idea/shelf/Uncommitted_changes_before_Update_at_13_9_20_4_37_p__m__[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 13/9/20 4:37 p. m. [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Server/obj/Debug/netcoreapp3.1/Persona.Server.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Server/obj/Debug/netcoreapp3.1/Persona.Server.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Persona/.idea/shelf/Uncommitted_changes_before_Update_at_13_9_20_4_37_p__m__[Default_Changelist]/Persona.Server.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Client/obj/Debug/netstandard2.1/Persona.Client.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Client/obj/Debug/netstandard2.1/Persona.Client.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Persona/.idea/shelf/Uncommitted_changes_before_Update_at_13_9_20_4_37_p__m__[Default_Changelist]/Persona.Client.csprojAssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Shared/obj/Debug/netstandard2.1/Persona.Shared.csprojAssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Shared/obj/Debug/netstandard2.1/Persona.Shared.csprojAssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Persona/.idea/shelf/Uncommitted_changes_before_Update_at_13_9_20_4_37_p__m__[Default_Changelist]/Persona.Shared.csprojAssemblyReference.cache" />
+  </binary>
+</changelist>
