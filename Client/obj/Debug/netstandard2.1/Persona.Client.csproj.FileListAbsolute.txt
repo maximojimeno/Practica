@@ -187,7 +187,6 @@
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/Persona.Client.RazorTargetAssemblyInfo.cache
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/Persona.Client.csproj.CopyComplete
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/blazor/unlinked.output
-/home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/GFb1aMtiHPsg6zViTqh0w7yetBQUyfNbWBVtftIXnhw=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/yFTwTS16q6jefUDI6nVJSEskooCjUCYQYKoLAkZ2nck=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
@@ -238,13 +237,11 @@
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/jy2f00FanofpLVaiV0ZLVMwgeQoAAw0lk598xWLLjCw=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-/home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/UGVBShQz_49LsKdCAyqMP8EZbKzFy3vAF-Pf95YqhfE=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json
-/home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/2RQtQpIf6cvbWIWIbUUZoydkP9T8qwpnWAfef3BhgxE=.hash
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/compressed/service-worker-assets.js.gz
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Persona.Client.dll.gz
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
@@ -368,3 +365,7 @@
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/blazor/serviceworkers/wwwroot/service-worker.js
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/blazor/service-worker-assets.js
 /home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/dPTJ8P2yaT4lmiN2SZ3kYHH8Vb-XCoVnXJCvmdp2wIs=.hash
+/home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/Blk7I7ZdBbf4LjaT1cjgtfJP8g_GXCFQnoZM2E_2nEE=.hash
+/home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/GmRwAEZYPJ8NNGvKihoPvZU_EDJyQYQCIrBvFISPWis=.hash
+/home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/RYptd8o0v_FTx4XlpHP8_ZqL7sWPeBBQcWmmcwFoylQ=.hash
+/home/maximojimeno/Practica/Persona/Client/obj/Debug/netstandard2.1/integrity/_wbERf2wLX-8dlh2y9ZpruZziv-wmr-C3kFIU1Q3Wlg=.hash

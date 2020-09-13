@@ -208,11 +208,11 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/3.1.7": {
+      "Microsoft.EntityFrameworkCore.Design/3.1.8": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "3.1.7"
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.8"
         },
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -249,10 +249,10 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Tools/3.1.7": {
+      "Microsoft.EntityFrameworkCore.Tools/3.1.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "3.1.7"
+          "Microsoft.EntityFrameworkCore.Design": "3.1.8"
         },
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -2250,10 +2250,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/3.1.7": {
-      "sha512": "gSRNa758T3dCqg5JUvOMMfDxx1Y8oFipf6t2bMg8KDpNyzVfp2YmjUsdQHDDIjiG4X8m3jkkykQPqBS0GsJD/A==",
+    "Microsoft.EntityFrameworkCore.Design/3.1.8": {
+      "sha512": "nFsL0L2CdadJ9dmSsmYlDZ1dFWQEr9zCWZ+oI4OOLtoS7gU2XPZiEhtvipAFzfSadx3XkteX/4fgdbM7wTub9A==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.design/3.1.7",
+      "path": "microsoft.entityframeworkcore.design/3.1.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2262,7 +2262,7 @@
         "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.3.1.7.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.3.1.8.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
@@ -2294,17 +2294,17 @@
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Tools/3.1.7": {
-      "sha512": "Cc1OQP/mVUAmH3JGeFuhAdtJ7J33Q4U/MvLAh7Of7e+5XUdHb7tJxobjVyr6nxJDZlJvZ38af9xPGzwwSswASw==",
+    "Microsoft.EntityFrameworkCore.Tools/3.1.8": {
+      "sha512": "HPvMrOlVVieK4E1DWdGTAzXgoPCyz2rkbnGYBpYaT4X34ml3xrMPQA1JIb5LejBydELBiKnoJq+qsOQ8sxFaCA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.tools/3.1.7",
+      "path": "microsoft.entityframeworkcore.tools/3.1.8",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.tools.3.1.7.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.3.1.8.nupkg.sha512",
         "microsoft.entityframeworkcore.tools.nuspec",
         "tools/EntityFrameworkCore.PS2.psd1",
         "tools/EntityFrameworkCore.PS2.psm1",
@@ -6416,42 +6416,40 @@
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 3.2.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.8",
-      "Microsoft.EntityFrameworkCore.Tools >= 3.1.7",
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.8",
       "Persona.Client >= 1.0.0",
       "Persona.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hp\\.nuget\\packages\\": {}
+    "/home/maximojimeno/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Server\\Persona.Server.csproj",
+      "projectUniqueName": "/home/maximojimeno/Practica/Persona/Server/Persona.Server.csproj",
       "projectName": "Persona.Server",
-      "projectPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Server\\Persona.Server.csproj",
-      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Server\\obj\\",
+      "projectPath": "/home/maximojimeno/Practica/Persona/Server/Persona.Server.csproj",
+      "packagesPath": "/home/maximojimeno/.nuget/packages/",
+      "outputPath": "/home/maximojimeno/Practica/Persona/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/maximojimeno/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Client\\Persona.Client.csproj": {
-              "projectPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Client\\Persona.Client.csproj"
+            "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj": {
+              "projectPath": "/home/maximojimeno/Practica/Persona/Client/Persona.Client.csproj"
             },
-            "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj": {
-              "projectPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj"
+            "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj": {
+              "projectPath": "/home/maximojimeno/Practica/Persona/Shared/Persona.Shared.csproj"
             }
           }
         }
@@ -6477,7 +6475,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.1.7, )"
+            "version": "[3.1.8, )"
           }
         },
         "imports": [
@@ -6498,7 +6496,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }
