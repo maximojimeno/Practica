@@ -16,3 +16,12 @@
 /home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.csproj.CoreCompileInputs.cache
 /home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.dll
 /home/maximojimeno/practica/Shared/obj/Debug/netstandard2.1/Persona.Shared.pdb
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\bin\Debug\netstandard2.1\Persona.Shared.deps.json
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\bin\Debug\netstandard2.1\Persona.Shared.dll
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\bin\Debug\netstandard2.1\Persona.Shared.pdb
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\obj\Debug\netstandard2.1\Persona.Shared.csprojAssemblyReference.cache
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\obj\Debug\netstandard2.1\Persona.Shared.AssemblyInfoInputs.cache
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\obj\Debug\netstandard2.1\Persona.Shared.AssemblyInfo.cs
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\obj\Debug\netstandard2.1\Persona.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\obj\Debug\netstandard2.1\Persona.Shared.dll
+C:\Users\Hp\Source\Repos\PracticaCRUD\Shared\obj\Debug\netstandard2.1\Persona.Shared.pdb

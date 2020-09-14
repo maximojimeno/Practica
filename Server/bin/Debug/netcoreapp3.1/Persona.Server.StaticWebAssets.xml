@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="/home/maximojimeno/practica/Client/wwwroot/" />
-  <ContentRoot BasePath="/" Path="/home/maximojimeno/practica/Client/bin/Debug/netstandard2.1/wwwroot/" />
+  <ContentRoot BasePath="/" Path="C:\Users\Hp\Source\Repos\PracticaCRUD\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Hp\Source\Repos\PracticaCRUD\Client\bin\Debug\netstandard2.1\wwwroot\" />
 </StaticWebAssets>

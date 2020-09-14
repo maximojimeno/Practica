@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/maximojimeno/practica/Shared/Persona.Shared.csproj": {}
+    "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj": {}
   },
   "projects": {
-    "/home/maximojimeno/practica/Shared/Persona.Shared.csproj": {
+    "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/maximojimeno/practica/Shared/Persona.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj",
         "projectName": "Persona.Shared",
-        "projectPath": "/home/maximojimeno/practica/Shared/Persona.Shared.csproj",
-        "packagesPath": "/home/maximojimeno/.nuget/packages/",
-        "outputPath": "/home/maximojimeno/practica/Shared/obj/",
+        "projectPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\Persona.Shared.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Source\\Repos\\PracticaCRUD\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/maximojimeno/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

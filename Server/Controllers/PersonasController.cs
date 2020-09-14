@@ -11,32 +11,26 @@ using Persona.Server.Models;
 namespace Persona.Server.Controllers {
     [Route("api/[Controller]")]
     [ApiController]
-    public class PersonasController : ControllerBase
-    
-    { private DbContexto _dbContexto;
+    public class PersonasController : ControllerBase {
+        private DbContexto _dbContexto;
 
-        public PersonasController(DbContexto dbContexto)
-        {
+        public PersonasController(DbContexto dbContexto) {
             _dbContexto = dbContexto;
         }
 
         [HttpGet("")]
 
-        public async Task<ActionResult<IEnumerable<Shared.Persona>>> GetPersonas()
-        {
-            try
-            {
+        public async Task<ActionResult<IEnumerable<Shared.Persona>>> GetPersonas() {
+            try {
                 List<Shared.Persona> persona = await _dbContexto.personas.ToListAsync();
 
                 return persona;
-            }
-            catch (Exception e)
-            {
+            } catch (Exception e) {
                 Console.WriteLine(e);
                 throw;
             }
         }
-        
+
         [HttpGet("{Id}")]
         public async Task<ActionResult<Shared.Persona>> GetPersona(int id) {
 
@@ -50,23 +44,38 @@ namespace Persona.Server.Controllers {
         }
 
         [HttpPost]
-        public async Task<ActionResult<Shared.Persona>> PostGuardar(Shared.Persona persona)
-        {
-            try
-            {
-                if (_dbContexto.personas.Add(persona) != null)
-                {
+        public async Task<ActionResult<Shared.Persona>> PostGuardar(Shared.Persona persona) {
+            try {
+                if (_dbContexto.personas.Add(persona) != null) {
                     await _dbContexto.SaveChangesAsync();
                 }
                 return Ok();
-                
-            }
-            catch (Exception e)
-            {
+
+            } catch (Exception e) {
                 Console.WriteLine(e);
                 throw;
             }
         }
+
+        [HttpDelete("{PersonaId}")]
+        public async Task<ActionResult<bool>> DeletePersona(int PersonaId) {
+
+
+            var persona = await _dbContexto.personas.Where(p => p.id == PersonaId).SingleOrDefaultAsync();
+
+            if (persona == null) {
+                return NotFound();
+
+            } else {
+
+                _dbContexto.personas.Remove(persona);
+                var paso = (await _dbContexto.SaveChangesAsync() > 0);
+
+                return paso;
+            }
+        }
+
+
     }
-    }
+}
 
